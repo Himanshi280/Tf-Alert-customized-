@@ -61,7 +61,7 @@ alert_loop = {
       threshold_duration    = 300
       threshold_occurrences = "ALL"
     }
-    warning_enabled                = false
+    warning_enabled = false
 
     # warning = {
     #   operator              = "above"
